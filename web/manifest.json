@@ -1,0 +1,10 @@
+{
+  "name": "Stream Player",
+  "short_name": "Player",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "HLS/MP4 Stream Player",
+  "orientation": "landscape"
+}
